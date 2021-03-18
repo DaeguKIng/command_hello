@@ -1,6 +1,4 @@
 print("hello world")
-<<<<<<< HEAD
-=======
 print("Tell your world")
->>>>>>> hotfix
+print("Tell his world")
 
